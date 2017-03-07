@@ -1,0 +1,8 @@
+Kahte Lamb,459 S. Super High Avenue,Edmonds,WA,98022-5729
+Peter Rabbit,123 Bunny Road,Cabbage Town,OR,97555-6312
+<<<<<<< HEAD
+Captain Spiff,4444 Pluto Way,Andromeda Town, NV,83112
+=======
+Captain Spiff,4444 Pluto Way,Andromeda Town,NV,83112
+>>>>>>> 47cc80045ddf2edee006e7c2dc944a86626dec26
+Flupsy Bunny,69 Carrot Court,Bunnyville,IO,55519

@@ -1,0 +1,11 @@
+Customer                        Peter Rabbit
+
+Customer Charge:                       $6.25
+Delivery Charge:                      $33.42
+Cost of Gas:                         $127.09
+Conservation Program Charge:           $0.50
+--------------------------------------------
+Subtotal:                            $167.27
+City Tax:                             $10.04
+Total:                               $177.30
+

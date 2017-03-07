@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+Customer                          Kahte Lamb
+
+Customer Charge:                       $6.25
+Delivery Charge:                       $6.39
+Cost of Gas:                          $15.21
+Conservation Program Charge:           $0.10
+--------------------------------------------
+Subtotal:                             $27.95
+City Tax:                              $1.68
+Total:                                $29.63
+
+=======
+Customer                        Peter Rabbit
+
+Customer Charge:                       $6.25
+Delivery Charge:                      $33.42
+Cost of Gas:                         $127.09
+Conservation Program Charge:           $0.50
+--------------------------------------------
+Subtotal:                            $167.27
+City Tax:                             $10.04
+Total:                               $177.30
+
+>>>>>>> 47cc80045ddf2edee006e7c2dc944a86626dec26
