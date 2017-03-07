@@ -1,0 +1,11 @@
+Customer                          Kahte Lamb
+
+Customer Charge:                       $6.25
+Delivery Charge:                       $6.39
+Cost of Gas:                          $15.21
+Conservation Program Charge:           $0.10
+--------------------------------------------
+Subtotal:                             $27.95
+City Tax:                              $1.68
+Total:                                $29.63
+
